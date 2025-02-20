@@ -28,7 +28,7 @@ const Home = () => {
         {/* Right Section - Text */}
         <div className="w-full md:w-1/2 text-left">
           <h1 className="text-4xl md:text-5xl font-bold">
-            Hi, I&apos;m <span className="text-green-400">Nyisingize Jean d&apos;Amour.</span>
+            Hi, I&apos;m <span className="text-green-400">Nkwihoreze Briane.</span>
           </h1>
           <h2 className="text-2xl md:text-3xl font-bold mt-2">Data Scientist</h2>
           <p className="text-gray-300 mt-4">

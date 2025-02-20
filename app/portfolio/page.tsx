@@ -14,7 +14,7 @@ export default function Home() {
     <main className="text-white flex gap-4 flex-col items-center p-8">
       {/* Bio Section */}
       <section className="max-w-4xl text-center mb-12">
-        <h1 className="text-4xl font-bold text-green-400">Hi, I&apos;m Nyisingize Jean d&apos;Amour.</h1>
+        <h1 className="text-4xl font-bold text-green-400">Hi, I&apos;m Nkwihoreze Briane.</h1>
         <h2 className="text-2xl font-semibold text-white mt-2">Data Scientist.</h2>
         <p className="mt-4 text-gray-300">
         I am a Data Science student at ALX, passionate about leveraging technology for agricultural 
